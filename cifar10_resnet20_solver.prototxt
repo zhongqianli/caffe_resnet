@@ -1,0 +1,16 @@
+test_iter: 100
+test_interval: 1000
+base_lr: 0.10000000149011612
+display: 100
+max_iter: 64000
+lr_policy: "multistep"
+stepvalue:32000
+stepvalue:48000
+gamma: 0.10000000149011612
+momentum: 0.8999999761581421
+weight_decay: 9.999999747378752e-05
+snapshot: 10000
+snapshot_prefix: "snapshot/cifar10_resnet20"
+solver_mode: GPU
+net: "cifar10_resnet20_train_test.prototxt"
+type: "SGD"
