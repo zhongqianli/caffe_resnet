@@ -22,17 +22,17 @@
 ## ResNet20
 ### 训练误差
 
-![Alt text](./images/cifar10_resnet20_train.log.loss.png)
+![Image text](./images/cifar10_resnet20_train.log.loss.png)
 
 ### 准确率
 
-![Alt text](./images/cifar10_resnet20_train.log.acc.png)
+![Image text](./images/cifar10_resnet20_train.log.acc.png)
 
 ## ResNet56
 ### 训练误差
 
-![Alt text](./images/cifar10_resnet56_train.log.loss.png)
+![Image text](./images/cifar10_resnet56_train.log.loss.png)
 
 ### 准确率
 
-![Alt text](./images/cifar10_resnet56_train.log.acc.png)
+![Image text](./images/cifar10_resnet56_train.log.acc.png)
